@@ -1,0 +1,6 @@
+[submodule "Middlewares/Third_Party/freeRTOS"]
+	path = Middlewares/Third_Party/freeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "Middlewares/Third_Party/RTT"]
+	path = Middlewares/Third_Party/RTT
+	url = https://github.com/Spider84/RTT
